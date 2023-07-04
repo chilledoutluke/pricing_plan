@@ -1,0 +1,28 @@
+.pricing {
+    display: flex;
+    background-color: #ffb703;
+    margin: 0;
+    padding: 0;
+}
+
+.plan1, .plan2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 0px;
+    font-size: 20px;
+}
+
+h1 {
+    background-color: #023047;
+    color: whitesmoke;
+    margin: 0;
+    padding: 10px;
+}
+
+button {
+    background-color: black;
+    color:#ffb703;
+    border-radius: 5px;
+    padding: 5px;
+}
